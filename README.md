@@ -2,7 +2,7 @@
   <a href="https://github.com/CastilhoF" target="blank"><img src="https://i.imgur.com/N2LQ2CN.png" width="420" alt="Honey Code Logo" /></a>
 </p>
 
-<p align="center">Eu, <a href="https://www.linkedin.com/in/fernando-castilho/" target="_blank">Fernando Castilho</a>, forneço soluções para backend, frontend, devops e mobile.</p>
+<p align="center">I, <a href="https://www.linkedin.com/in/fernando-castilho/" target="_blank">Fernando Castilho</a>, provide solutions for backend, frontend, devops and mobile.</p>
 <p align="left">
   <a href="https://twitter.com/iG" target="_blank"><img src="https://img.shields.io/twitter/follow/CastilhoWylde?style=social&label=Follow"></a>
 </p>
