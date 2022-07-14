@@ -21,6 +21,7 @@ const console_options: ConsoleTransportOptions = {
     winston.format.ms(),
     utilities.format.nestLike('sendgrid-integration-app', {
       prettyPrint: true,
+      colors: true,
     }),
   ),
   level: 'debug',

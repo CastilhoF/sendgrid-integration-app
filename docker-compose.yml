@@ -1,12 +1,12 @@
 version: '3.8'
 services:
   api:
-    container_name: ig-bknd-counting-of-elections
+    container_name: sendgrid-integration-app
     build:
       context: .
       dockerfile: Dockerfile
       target: run
-    hostname: balder
+    hostname: sendgrid-integration-app
     ports:
-      - "3011:3011"
+      - "3000:3000"
     restart: on-failure
